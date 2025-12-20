@@ -5,7 +5,7 @@
 
 // URL của Google Apps Script đã deploy
 // Thay đổi URL này khi deploy script mới
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw5N0DCHOZCdf0jPEUOR4cynL7_6d6xBBg3EXkGASEufMuhw79moAitIs9YckrPr7QClA/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyVkJJVgJYZSjlBR_W48Vkix2vx4v1RRRBnpe-tfQksk-uuJhGZayZML3U7Dgv9jS4WUA/exec';
 
 // Spreadsheet ID (nếu cần sử dụng trong frontend)
 // ID này được sử dụng trong unified.gs
